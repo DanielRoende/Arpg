@@ -1,0 +1,15 @@
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\bin\Debug\net6.0\Arpg.exe
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\bin\Debug\net6.0\Arpg.deps.json
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\bin\Debug\net6.0\Arpg.runtimeconfig.json
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\bin\Debug\net6.0\Arpg.dll
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\bin\Debug\net6.0\Arpg.pdb
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.csproj.AssemblyReference.cache
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.AssemblyInfoInputs.cache
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.AssemblyInfo.cs
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.csproj.CoreCompileInputs.cache
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.dll
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\refint\Arpg.dll
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.pdb
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\Arpg.genruntimeconfig.cache
+C:\Users\ynkyn\Documents\BasisProg\Arpg\Arpg\obj\Debug\net6.0\ref\Arpg.dll
